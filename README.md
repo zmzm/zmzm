@@ -27,5 +27,6 @@
 
 ### :fire: My Stats :
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=zmzm&show_icons=true&include_all_commits=true&hide=contribs,issues)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zmzm&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![zmzm's Stats](https://github-readme-stats.vercel.app/api?username=zmzm&&show_icons=true&count_private=true)
+![zmzm's Streak](https://github-readme-streak-stats.herokuapp.com/?user=zmzm)
+![zmzm's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zmzm&show_icons=true&layout=compact)
