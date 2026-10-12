@@ -1,11 +1,9 @@
-<!-- Minimal / Linear · v2 · matched to the supplied reference -->
-
 <p>
 <picture>
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/hero-mobile-dark.svg">
   <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="assets/hero-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
-  <img src="assets/hero-light.svg" width="61%" alt="Hi, I&#x27;m Vlad Kavalski. Senior Software Engineer. Building reliable software, developer tools and AI-powered automation.">
+  <img src="assets/hero-light.svg" width="61%" alt="Hi, I&#x27;m Uladzislau Kavalski. Senior Software Engineer. Building reliable software, developer tools and AI-powered automation.">
 </picture>
 <img src="assets/programmer.png" width="36%" alt="Monochrome illustration of a developer in glasses working at a laptop, with a coffee mug">
 </p>
@@ -50,8 +48,6 @@ and experimenting with **AI Agents, automation and self-hosted infrastructure**.
   <source media="(prefers-color-scheme: dark)" srcset="assets/project-pentagon-homelab-dark.svg">
   <img src="assets/project-pentagon-homelab-light.svg" width="840" alt="Pentagon Homelab. Self-hosted infrastructure on Raspberry Pi. Docker, Caddy, Pi-hole, Vaultwarden, monitoring and more. Self-hosted, Raspberry Pi, Docker, Infrastructure">
 </picture>
-
-[View Pentagon Homelab ↗](https://github.com/zmzm/pentagon-homelab)
 
 <picture>
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/project-knowledge-router-mobile-dark.svg">
