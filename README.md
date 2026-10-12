@@ -1,32 +1,69 @@
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <div id="badges">
-  <a href="https://www.linkedin.com/in/uladzislau-kavalski-5b00aa68">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="mailto:vladislav.kovalskij@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Youtube Badge"/>
-  </a>
-<!--   <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a> -->
-</div>
-</div>
+<!-- Minimal / Linear · v2 · matched to the supplied reference -->
 
----
+<p>
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/hero-mobile-dark.svg">
+  <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="assets/hero-mobile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg">
+  <img src="assets/hero-light.svg" width="61%" alt="Hi, I&#x27;m Vlad Kavalski. Senior Software Engineer. Building reliable software, developer tools and AI-powered automation.">
+</picture>
+<img src="assets/programmer.png" width="36%" alt="Monochrome illustration of a developer in glasses working at a laptop, with a coffee mug">
+</p>
 
-<p>Hi there, I'm Vlad. I am always open to collaborating on projects and innovative/disruptive ideas.</p>
+[<picture>  <source media="(prefers-color-scheme: dark)" srcset="assets/contact-linkedin-dark.svg">  <img src="assets/contact-linkedin-light.svg" width="18" alt=""></picture> LinkedIn](https://www.linkedin.com/in/uladzislau-kavalski-5b00aa68) &nbsp; &nbsp; [<picture>  <source media="(prefers-color-scheme: dark)" srcset="assets/contact-email-dark.svg">  <img src="assets/contact-email-light.svg" width="18" alt=""></picture> Email](mailto:vladislav.kovalskij@gmail.com) &nbsp; &nbsp; [<picture>  <source media="(prefers-color-scheme: dark)" srcset="assets/contact-github-dark.svg">  <img src="assets/contact-github-light.svg" width="18" alt=""></picture> GitHub](https://github.com/zmzm)
 
----
+<br>
 
-### :hammer_and_wrench: Languages and Tools :
+### — &nbsp; About Me
 
-<div align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://jestjs.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jestjsio/jestjsio-icon.svg" alt="jest" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </div>
+I'm a software engineer with **9+ years of experience** building web applications
+and backend systems. My background is primarily in frontend engineering, but over
+the years I've increasingly worked on system architecture, backend services
+and complex integrations.
 
----
+I enjoy solving challenging engineering problems, designing reliable systems
+and experimenting with **AI Agents, automation and self-hosted infrastructure**.
 
-### :fire: My Stats :
+<br>
 
-![zmzm's Stats](https://github-readme-stats.vercel.app/api?username=zmzm&&show_icons=true&count_private=true)
-![zmzm's Streak](https://github-readme-streak-stats.herokuapp.com/?user=zmzm)
-![zmzm's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zmzm&show_icons=true&layout=compact)
+### <picture>  <source media="(prefers-color-scheme: dark)" srcset="assets/section-tech-dark.svg">  <img src="assets/section-tech-light.svg" width="22" alt=""></picture> &nbsp; Tech Stack
+
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/tech-stack-mobile-dark.svg">
+  <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="assets/tech-stack-mobile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/tech-stack-dark.svg">
+  <img src="assets/tech-stack-light.svg" width="840" alt="Frontend: React, TypeScript, Next.js, Vite; Backend: Node.js, NestJS, PostgreSQL, Prisma; Architecture: REST, gRPC, WebSocket, Microservices; Infrastructure: Docker, Kubernetes, AWS, Terraform; AI &amp; Automation: LLMs, RAG, AI Agents, n8n; Other: Linux, Git, CI/CD, Tailscale">
+</picture>
+
+### <picture>  <source media="(prefers-color-scheme: dark)" srcset="assets/section-projects-dark.svg">  <img src="assets/section-projects-light.svg" width="22" alt=""></picture> &nbsp; Featured Projects
+
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/project-flowforge-mobile-dark.svg">
+  <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="assets/project-flowforge-mobile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/project-flowforge-dark.svg">
+  <img src="assets/project-flowforge-light.svg" width="840" alt="FlowForge. AI-powered workflow orchestration for personal and team productivity. Integrates LLMs, knowledge retrieval and external tools. AI, Automation, Node.js, Docker">
+</picture>
+
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/project-pentagon-homelab-mobile-dark.svg">
+  <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="assets/project-pentagon-homelab-mobile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/project-pentagon-homelab-dark.svg">
+  <img src="assets/project-pentagon-homelab-light.svg" width="840" alt="Pentagon Homelab. Self-hosted infrastructure on Raspberry Pi. Docker, Caddy, Pi-hole, Vaultwarden, monitoring and more. Self-hosted, Raspberry Pi, Docker, Infrastructure">
+</picture>
+
+[View Pentagon Homelab ↗](https://github.com/zmzm/pentagon-homelab)
+
+<picture>
+  <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/project-knowledge-router-mobile-dark.svg">
+  <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="assets/project-knowledge-router-mobile-light.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/project-knowledge-router-dark.svg">
+  <img src="assets/project-knowledge-router-light.svg" width="840" alt="Knowledge Router. Lightweight knowledge retrieval system for AI agents. Search across Markdown files, tags and external sources. TypeScript, Search, RAG, AI Agents">
+</picture>
+
+### <picture>  <source media="(prefers-color-scheme: dark)" srcset="assets/section-exploring-dark.svg">  <img src="assets/section-exploring-light.svg" width="22" alt=""></picture> &nbsp; Currently Exploring
+
+→ &nbsp; Multi-agent systems and orchestration  
+→ &nbsp; AI-assisted software development  
+→ &nbsp; Knowledge retrieval & context engineering  
+→ &nbsp; Self-hosted infrastructure  
+→ &nbsp; Better developer experience
