@@ -30,7 +30,7 @@ and experimenting with **AI Agents, automation and self-hosted infrastructure**.
   <source media="(max-width: 600px) and (prefers-color-scheme: dark)" srcset="assets/tech-stack-mobile-dark.svg">
   <source media="(max-width: 600px) and (prefers-color-scheme: light)" srcset="assets/tech-stack-mobile-light.svg">
   <source media="(prefers-color-scheme: dark)" srcset="assets/tech-stack-dark.svg">
-  <img src="assets/tech-stack-light.svg" width="840" alt="Frontend: React, TypeScript, Next.js, Vite; Backend: Node.js, NestJS, PostgreSQL, Prisma; Architecture: REST, gRPC, WebSocket, Microservices; Infrastructure: Docker, Kubernetes, AWS, Terraform; AI &amp; Automation: LLMs, RAG, AI Agents, n8n; Other: Linux, Git, CI/CD, Tailscale">
+  <img src="assets/tech-stack-light.svg" width="840" alt="Frontend: React, TypeScript, Next.js, Vite; Backend: Node.js, NestJS, PostgreSQL, Prisma; Architecture: REST, gRPC, WebSocket, Microservices; Infrastructure: Docker, Kubernetes, AWS, Terraform; AI &amp; Automation: LLMs, RAG, AI Agents, Hermes Agent; Other: Linux, Git, CI/CD, Tailscale">
 </picture>
 
 ### <picture>  <source media="(prefers-color-scheme: dark)" srcset="assets/section-projects-dark.svg">  <img src="assets/section-projects-light.svg" width="22" alt=""></picture> &nbsp; Featured Projects
